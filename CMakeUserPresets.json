@@ -1,0 +1,6 @@
+{
+    "version": 4,
+    "include": [
+        "/home/dowlings/projects/conan-cmake-example-lib/build/generators/CMakePresets.json"
+    ]
+}
